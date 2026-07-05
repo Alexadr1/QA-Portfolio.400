@@ -35,4 +35,4 @@
 ## ✉️ Контакты для связи
 * **Telegram:** [@ваш_юзернейм](https://t.me)
 * **LinkedIn:** [Профиль LinkedIn](ссылка_на_профиль)
-* **Email:** ваш_email@example.com
+* **Email:** aleksandr.qa.dev@gmail.com
