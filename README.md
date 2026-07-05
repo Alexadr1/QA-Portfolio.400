@@ -33,6 +33,4 @@
 ---
 
 ## ✉️ Контакты для связи
-* **Telegram:** [@ваш_юзернейм](https://t.me)
-* **LinkedIn:** [Профиль LinkedIn](ссылка_на_профиль)
 * **Email:** aleksandr.qa.dev@gmail.com
