@@ -34,3 +34,4 @@
 
 ## ✉️ Контакты для связи
 * **Email:** aleksandr.qa.dev@gmail.com
+* Telegram: @it_alex_qa
