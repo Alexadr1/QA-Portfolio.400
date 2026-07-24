@@ -54,5 +54,7 @@
 Окружение: Git, GitHub, Yonote
 
 ✉️ Контакты для связи
+
 Email: aleksandr.qa.dev@gmail.com
+
 * **Telegram:** [@it_alex_qa](https://t.me)
