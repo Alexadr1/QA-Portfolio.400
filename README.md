@@ -52,6 +52,7 @@
 Тестирование: UI/UX, REST API, Mobile (Android/iOS)
 СУБД: SQL (Базовые запросы, Слияния)
 Окружение: Git, GitHub, Yonote
+
 ✉️ Контакты для связи
 Email: aleksandr.qa.dev@gmail.com
 * **Telegram:** [@it_alex_qa](https://t.me)
